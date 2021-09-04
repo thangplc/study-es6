@@ -1,0 +1,5 @@
+ES6: ECMAScprit 6   
+Các phiên bản: es1->es2->es3->es4->es5->es6
+Cách khai báo biến mới
+Học các viết hàm mới
+Cách truyền biến mới dùng ký tự $(template String)

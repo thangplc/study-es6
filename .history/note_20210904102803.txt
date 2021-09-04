@@ -1,0 +1,16 @@
+ES6: ECMAScprit 6   
+Các phiên bản: es1->es2->es3->es4->es5->es6
+Cách khai báo biến mới.
+    + Hoisting
+    + var: 
+        . có thể sử dụng biến đó trước khi khai báo giá trị là undefind,
+        . hoạt động theo cơ chế ghi đè, 
+        . không tạo ra bản mới, vùng nhớ mới,
+        . phạm vi hoạt động là funtion scope
+    + Khai báo biến let
+        .
+    + Khai báo biến với const
+        .
+* Phỏng vấn: so sánh giữa var, let, const, nên dùng trong những trường hợp nào là hợp lý nhất?
+Học các viết hàm mới(arrow funtion).
+Cách truyền biến mới dùng ký tự $(template String)
