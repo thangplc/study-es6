@@ -22,8 +22,8 @@ ES6: ECMAScprit 6
         . Sử dụng khi k cần re-assign giá trị
 3. Câu hỏi phỏng vấn thường gặp: so sánh giữa var, let, const, nên dùng trong những trường hợp nào là hợp lý nhất?
 4. Học các viết hàm mới(arrow funtion).
-    . So sánh declaration funtion và expression funtion
-    . 
+    . So sánh declare funtion và express funtion
+    .
     .
     .
 5. Cách truyền biến mới dùng ký tự $(template String)

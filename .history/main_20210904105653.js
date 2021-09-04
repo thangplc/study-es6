@@ -31,4 +31,3 @@ const calcAgeNormal = function(birthYear) {
 const calcYearArrow = (birthYear) => {
     console.log(2021 - birthYear);
 };
-const calcYearArrowShort = (birthYear) => 2021 - birthYear;

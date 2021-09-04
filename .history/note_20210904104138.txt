@@ -8,22 +8,15 @@ ES6: ECMAScprit 6
         . hoạt động theo cơ chế ghi đè, 
         . không tạo ra bản mới, vùng nhớ mới,
         . phạm vi hoạt động là funtion scope
-        . Sử dụng khi browser cũ không hỗ trợ let và const như IE,...
     + Khai báo biến let
         . Không thể sử dụng trước khi định nghĩa nó
         . Không có cơ chế hoisting
         . không thể trùng tên biến
         . phạm vị hoạt động block scope
-        . Sử dụng khi trong tương lai cần re-assign giá trị
     + Khai báo biến với const
-        . Phải gán giá trị khi khai báo
-        . Không có cơ chế hoisting
-        . phạm vi hoạt động block scope
-        . Sử dụng khi k cần re-assign giá trị
+        .
+        .
+        .
 3. Câu hỏi phỏng vấn thường gặp: so sánh giữa var, let, const, nên dùng trong những trường hợp nào là hợp lý nhất?
 4. Học các viết hàm mới(arrow funtion).
-    . So sánh declaration funtion và expression funtion
-    . 
-    .
-    .
 5. Cách truyền biến mới dùng ký tự $(template String)

@@ -24,11 +24,8 @@ console.log(birthYear);
  */
 
 // expression funttion
-const calcAgeNormal = function(birthYear) {
+const calcAgeNormal = function(birtyear) {
     console.log(2021 - birthYear);
 };
 // Arrow funtion
-const calcYearArrow = (birthYear) => {
-    console.log(2021 - birthYear);
-};
-const calcYearArrowShort = (birthYear) => 2021 - birthYear;
+const calcYearArrow = () => {};
